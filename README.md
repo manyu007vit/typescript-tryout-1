@@ -1,11 +1,11 @@
 # Demo App to demonstrate Github issues page using the latest Technology Stack
 
 ## Technology stack
-React
-TypeScript
-TailwindCSS
-GraphQL
-Relay
+- React
+- TypeScript
+- TailwindCSS
+- GraphQL
+- Relay
 
 ## Available Scripts
 
